@@ -1,0 +1,14 @@
+{
+  "name": "projeto-cypress_ultima",
+  "version": "1.0.0",
+  "description": "Primeiro projeto com Cypress e BDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Leonardo Badell",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
