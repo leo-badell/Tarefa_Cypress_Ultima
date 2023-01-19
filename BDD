@@ -1,0 +1,14 @@
+TC1: 
+Dado que ao acessar no Academy bugs da uTest
+Quando digito DARK BLUE DENIM JEANS no buscador
+Então vejo o resultado esperado do que procurei.
+
+TC2:
+Dado que ao acessar no Academy bugs da uTest.
+Quando digito BUDDHA BRACELET no buscador.
+Então o resultado esperado do que procurei.
+
+TC3:
+Dado que ao acessar no Academy bugs da uTest.
+Quando digito DARK GREY JEANS no buscador.
+Então vejo o resultado esperado do que procurei.
